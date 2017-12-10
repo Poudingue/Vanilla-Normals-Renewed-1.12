@@ -12,3 +12,7 @@ I release this texturepack to the public, because everyone should be able to enj
 This readme is not yet finished, i'll add some screenshots, and detailed instructions on how to install.
 
 If you want, here is a video i made a long time ago to show what it looked like (in french) https://youtu.be/ierYnCBnozg
+
+## Known Bugs (on SEUS renewed 0.99)
+- Double doors do not correctly take into account direction of light
+- ???
