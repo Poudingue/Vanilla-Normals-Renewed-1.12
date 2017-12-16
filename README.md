@@ -15,4 +15,5 @@ If you want, here is a video i made a long time ago to show what it looked like 
 
 ## Known Bugs (on SEUS renewed 0.99)
 - Double doors do not correctly take into account direction of light
+- Reflective materials are sometimes too dark depending on direction of surface
 - ???
