@@ -13,7 +13,8 @@ This readme is not yet finished, i'll add some screenshots, and detailed instruc
 
 If you want, here is a video i made a long time ago to show what it looked like (in french) https://youtu.be/ierYnCBnozg
 
-## Known Bugs (on SEUS renewed 0.99)
+## Known Bugs (on SEUS renewed 1.00)
 - Double doors do not correctly take into account direction of light
-- Reflective materials are sometimes too dark depending on direction of surface
+- Reflective materials are sometimes too dark depending on direction of surface (Partially fixed)
+- Parralax of the top of quartz billars behaves strangely
 - ???
