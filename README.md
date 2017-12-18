@@ -1,6 +1,6 @@
 # Vanilla-Normals-Renewed
 A shaders compatible minecraft texturepack, based on vanilla but with normals and specular highlights.
-This version (renewed) is made for PBR, but still a work in progress, so you may encounter some textures with strange behavior.
+This version (renewed) is made for PBR, but still a WORK IN PROGRESS, so you may encounter some textures with strange behavior.
 
 ## Description
 
