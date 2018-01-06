@@ -19,7 +19,7 @@ I release this texturepack to the public, because everyone should be able to enj
 - Install a shader supporting normal and specular mapping. If you don't know which one, give this one a shot :
 http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1280299-sonic-ethers-unbelievable-shaders-compatible-with
 - Click on «Clone or download», then «Download as ZIP»
-- Type %appdata% on your start menu.
+- Type %appdata% on your start menu. (for windows, not sure for mac or linux)
 - Go to the .minecraft folder
 - Go into the ressourcepacks folder. Create it if it doesn't exist
 - Extract the file you downloaded here
@@ -27,8 +27,8 @@ http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-
 - Enjoy !
 
 ## Known Bugs (on SEUS renewed 1.00)
-- Double doors do not correctly take into account direction of light
+- Double doors do not correctly take into account direction of light (for the second door)
 - Same for Anvils, and other rotated textures
-- Reflective materials are sometimes too dark depending on direction of surface (Partially fixed)
-- Parallax behaves strangely on rotated textures
+- Very smooth suraces may be too dark when not facing the sun (Partially fixed, but some problems maybe stayed)
+- Parallax behaves strangely on rotated textures (rails, for example)
 - ???
