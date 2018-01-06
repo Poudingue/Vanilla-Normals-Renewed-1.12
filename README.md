@@ -4,7 +4,7 @@ This version (renewed) is made for PBR, but still a WORK IN PROGRESS, so you may
 
 ## Description
 
-I did'nt want any of those fancy high-resolution texturepacks in order to enjoy normal mapping and specular highlights.
+I didn't want any of those fancy high-resolution texturepacks in order to enjoy normal mapping and specular highlights.
 So i decided to make my own, but based on vanilla textures.
 
 I release this texturepack to the public, because everyone should be able to enjoy it.
@@ -35,6 +35,6 @@ http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-
 ## Known Bugs (on SEUS renewed 1.00)
 - Double doors do not correctly take into account direction of light (for the second door)
 - Same for Anvils, and other rotated textures
-- Very smooth suraces may be too dark when not facing the sun (Partially fixed, but some problems maybe stayed)
+- Very smooth surfaces may be too dark when not facing the sun (Partially fixed, but some problems maybe stayed)
 - Parallax behaves strangely on rotated textures (rails, for example)
 - ???
