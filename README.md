@@ -9,9 +9,10 @@ So i decided to make my own, but based on vanilla textures.
 
 I release this texturepack to the public, because everyone should be able to enjoy it.
 
-This readme is not yet finished, i'll add some screenshots.
+## Screenshots
 
-If you want, here is a video i made a long time ago to show what it looked like (in french) https://youtu.be/ierYnCBnozg
+![Normals and smoothness](https://user-images.githubusercontent.com/18035775/34640565-eb2fc134-f2f4-11e7-9d06-c615fb50aed1.png)
+![Metal and smooth materials](https://user-images.githubusercontent.com/18035775/34640564-eb1388de-f2f4-11e7-8597-e132e9cde2db.png)
 
 ## Installation
 
