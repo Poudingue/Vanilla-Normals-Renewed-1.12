@@ -12,10 +12,12 @@ I release this texturepack to the public, because everyone should be able to enj
 ## Screenshots
 Textures have bump mapping informations, allowing parallax occlusion mapping and normal mapping.
 Smoothness informations is very important for the credibility of materials too, especially when the sun lights it at grazing angles.
+
 ![Normals and smoothness](https://user-images.githubusercontent.com/18035775/34640565-eb2fc134-f2f4-11e7-9d06-c615fb50aed1.png)
 
 Metals and smooth materials now have the correct informations to compute reflections.
 SEUS renewed heavily realies on Screen Space Reflections for this, so the reflections won't be perfect if you really pay attention to it, but most of the time it does a good job.
+
 ![Metal and smooth materials](https://user-images.githubusercontent.com/18035775/34640564-eb1388de-f2f4-11e7-8597-e132e9cde2db.png)
 
 ## Installation
