@@ -24,7 +24,7 @@ SEUS renewed heavily realies on Screen Space Reflections for this, so the reflec
 
 - Install a shader supporting normal and specular mapping. If you don't know which one, give this one a shot :
 http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1280299-sonic-ethers-unbelievable-shaders-compatible-with
-- Click on «Clone or download», then «Download as ZIP»
+- On this page, click on «Clone or download», then «Download as ZIP»
 - Type %appdata% on your start menu. (for windows, not sure for mac or linux)
 - Go to the .minecraft folder
 - Go into the ressourcepacks folder. Create it if it doesn't exist
@@ -34,8 +34,8 @@ http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-
 
 ## Known Bugs (on SEUS renewed 1.00)
 - Double doors do not correctly take into account direction of light (for the second door)
-- Same for Anvils, and other rotated textures
-- Very smooth surfaces may be too dark when not facing the sun (Partially fixed, but some problems maybe stayed)
+- Same for Anvils, and other rotated textures, such as rails
+- Very smooth surfaces may be too dark when not facing the sun (mainly fixed, but some problems maybe stayed)
 - Parallax behaves strangely on rotated textures (rails, for example)
-- If parllax self-shadow are on, 3D ores will look weird when lighted from direct sunlight
+- If parallax self-shadow are on, 3D ores will look weird when lighted from direct sunlight (Pretty rare underground)
 - ???
