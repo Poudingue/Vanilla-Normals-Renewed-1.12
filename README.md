@@ -27,9 +27,9 @@ http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-
 - On this page, click on «Clone or download», then «Download as ZIP»
 - Type %appdata% on your start menu. (for windows, not sure for mac or linux)
 - Go to the .minecraft folder
-- Go into the ressourcepacks folder. Create it if it doesn't exist
+- Go into the resourcepacks folder. Create it if it doesn't exist
 - Extract the file you downloaded here
-- Select the right shader and ressourcepack in minecraft options
+- Select the right shader and resourcepack in minecraft options
 - Enjoy !
 
 ## Known Bugs (on SEUS renewed 1.00)
