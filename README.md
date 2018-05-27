@@ -37,5 +37,5 @@ http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-
 - Same for Anvils, and other rotated textures, such as rails
 - Very smooth surfaces may be too dark when not facing the sun (mainly fixed, but some problems maybe stayed)
 - Parallax behaves strangely on rotated textures (rails, for example)
-- If parallax self-shadow are on, 3D ores will look weird when lighted from direct sunlight (Pretty rare underground)
+- If parallax self-shadow are on, 3D ores might look weird when lighted from direct sunlight (Pretty rare underground)
 - ???
