@@ -1,6 +1,8 @@
-# Vanilla-Normals-Renewed
-A shaders compatible minecraft texturepack, based on vanilla but with normals and specular highlights.
+# Vanilla-Normals-Renewed-1.12
+A shaders compatible minecraft texturepack, based on vanilla but with normals and proper glossiness informations.
 This version (renewed) is made for PBR, but still a WORK IN PROGRESS, so you may encounter some textures with strange behavior.
+
+/!\ THIS VERSION IS NOT COMPATIBLE FOR MINECRAFT ≥ 1.13
 
 ## Description
 
