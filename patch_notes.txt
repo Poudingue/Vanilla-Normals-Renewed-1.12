@@ -1,0 +1,12 @@
+V0.1 :
+Changed :
+- Less shiny cauldron
+- Shinier dirt
+- Emerald block are now less “metal”, with a hybrid dielectric-metal render.
+- Stronger normals on the inside of mushrooms
+- Shinier nether wart
+- Rougher netherrack
+- Smoother and flatter obsidian
+- Reworked quartz ore block to improve visibility in the nether
+- Changed back redstone block to metal
+- Subtle changes to sand and smoothed andesite/diorite/granite

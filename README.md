@@ -9,7 +9,7 @@ This version (renewed) is made for PBR, but still a WORK IN PROGRESS, so you may
 I didn't want any of those fancy high-resolution texturepacks in order to enjoy normal mapping and specular highlights.
 So i decided to make my own, but based on vanilla textures.
 
-I release this texturepack to the public, because everyone should be able to enjoy it.
+This texturepack is free for everyone to use ! However if you wish to support me, you can join my Patreon : https://www.patreon.com/Poudingue
 
 ## Copyright
 
