@@ -1,4 +1,16 @@
-V0.1 :
+v0.02 :
+Changed :
+- Fixed all the doors normals
+- Fixed all the doors incorrect metalness
+- Added specular informations to all the doors
+- Made the clay wetter
+- Changed the glowstone emissivity
+- Changed the specular for ice and packed ice
+- Added normals for packed ice
+- Changed slime specular and normals
+- Fixed stone slab normals incorrectly curved
+
+V0.01 :
 Changed :
 - Less shiny cauldron
 - Shinier dirt
