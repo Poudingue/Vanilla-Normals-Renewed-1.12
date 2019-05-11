@@ -25,7 +25,7 @@ Smoothness information is very important for the credibility of materials too, e
 
 ![Normals and smoothness](https://user-images.githubusercontent.com/18035775/34640565-eb2fc134-f2f4-11e7-9d06-c615fb50aed1.png)
 
-Metals and smooth materials now have the correct information=n to compute reflections.
+Metals and smooth materials now have the correct information to compute reflections.
 SEUS renewed heavily relies on Screen Space Reflections for this and don't take correctly roughness surfaces for it, so the reflections may be too shiny and imperfect. However using SEUS PTGI will provide Path-Traced reflections and indirect lighting, and correctly take into account roughness.
 
 ![Metal and smooth materials](https://user-images.githubusercontent.com/18035775/34640564-eb1388de-f2f4-11e7-8597-e132e9cde2db.png)
