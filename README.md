@@ -93,10 +93,8 @@ Version Control software allows multiple authors to collaborate, and track all t
     4. Then run `git pull origin' to download the latest version.
         - You might want to relaunch Minecraft after this to make sure it uses the latest textures.            
         
-## Known Bugs (on SEUS renewed 1.00)
+## Known Bugs (on SEUS PTGI E6)
 - Double doors do not correctly take into account direction of light (for the second door)
-- Same for Anvils, and other rotated textures, such as rails
-- Very smooth surfaces may be too dark when not facing the sun (mainly fixed, but some problems maybe stayed)
-- Parallax behaves strangely on rotated textures (rails, for example)
-- If parallax self-shadow are on, 3D ores might look weird when lighted from direct sunlight (Pretty rare underground)
+- Parallax and normals behaves strangely on rotated textures (rails, for example)
+- Insufficiently smooth metals do not look like metals if full raytrace reflections are note active. (This is what causes stripes on iron blocks)
 - ???
