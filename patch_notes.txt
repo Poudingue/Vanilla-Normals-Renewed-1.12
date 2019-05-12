@@ -1,3 +1,22 @@
+v0.03 :
+Added :
+- Endframe normals and specular, still work in progress
+- Jukebox specular added
+- Added end bricks specular
+
+Changed :
+- All quartz block a little less glossy
+- Smoothed diorite, granite and andesite are less glossy
+- Changed end bricks normals
+- Reverted redstone block to non-metal
+- Changed hopper shininess
+- Shinier brick
+- Clay looks less like sand and more like clay
+- Corrected cobblestone and mossy cobble shininess
+- Enchanting table's appearance aligned on diamond and obsidian.
+- Adjusted dry farmland and hay block shininess
+
+
 v0.02 :
 Changed :
 - Fixed all the doors normals
@@ -9,6 +28,7 @@ Changed :
 - Added normals for packed ice
 - Changed slime specular and normals
 - Fixed stone slab normals incorrectly curved
+
 
 V0.01 :
 Changed :
