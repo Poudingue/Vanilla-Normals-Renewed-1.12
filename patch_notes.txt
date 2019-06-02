@@ -1,3 +1,23 @@
+v0.04 :
+Added :
+- Multiple glass plane normals and specular added
+- Itemframe normals and specular
+- Tall grass normals and specular
+
+Changed :
+- IMPROVED MELON !!!
+- The CAKE specular
+- Prismarine albedo, normals and shininess
+- Lighted pumpkin
+- Redstone components normals
+- Most ore normals and shininess fixed to blend with stone
+- Stonebrick speculars changed
+- Reeds, waterlily, magma block, farmland
+
+Removed :
+- A few unchanged base color textures
+
+
 v0.03 :
 Added :
 - Endframe normals and specular, still work in progress
