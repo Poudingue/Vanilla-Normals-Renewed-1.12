@@ -1,4 +1,7 @@
 # Vanilla-Normals-Renewed-1.12
+
+This is an archive, for the most recent version look here : https://github.com/Poudingue/Vanilla-Normals-Renewed
+
 A shaders compatible minecraft texture pack, based on vanilla but with normals and proper glossiness information.
 This version (renewed) is made for PBR, but still a WORK IN PROGRESS, so you may encounter some textures with strange behavior.
 
@@ -34,14 +37,14 @@ SEUS renewed heavily relies on Screen Space Reflections for this and don't take 
 
 - Install a shader supporting normal and specular mapping. If you don't know which one, give this one a shot : https://sonicether.com/seus/ and if you want raytracing, it should also work properly with SEUS PTGI6 : https://www.patreon.com/sonicether
 
-- Joining the discord server is recommended for update notifications, support, and giving feedback. 
+- Joining the discord server is recommended for update notifications, support, and giving feedback.
   [Join Here](https://discord.gg/bn8S5Z3)
 
 ### Old zip Based Method
 
 1. On this page, click on «Clone or download», then «Download as ZIP»
 2. Go to the minecraft folder
-    - For windows, go to "%appdata%/.minecraft" on your start menu. 
+    - For windows, go to "%appdata%/.minecraft" on your start menu.
     - For Linux, go to "~/.minecraft" in your file explorer.
     - For Mac OS, go to "~/Library/Application Support/minecraft" in your file explorer
 3. Go into the resourcepacks folder. Create it if it doesn't exist
@@ -76,7 +79,7 @@ Version Control software allows multiple authors to collaborate, and track all t
         1. Open a web browser and [download](https://git-scm.com/download/win) the latest version of git
         2. Run the installer
             - When it comes to the "Adjusting your PATH environment" the middle option is recommended, as it allow for more flexibility, but doesn't cause problems.
-            - When it comes to the "Configuring the line ending conventions", set it to "Checkout Windows-style, commit Unix-style line endings" 
+            - When it comes to the "Configuring the line ending conventions", set it to "Checkout Windows-style, commit Unix-style line endings"
                 - Linux and Windows use different line ending in text files, and this will prevent any problems.
             - When it comes to the " Configuring the Terminal Emulator to use with Git Bash" the Windows one is sufficient for most work
         3. Once it is installed, launch command prompt
@@ -92,7 +95,7 @@ Version Control software allows multiple authors to collaborate, and track all t
     3. Change to the TEXTURE PACK'S folder by running `cd %appdata%/.minecraft/resourcepacks/Vanilla-Normals-Renewed-1.12`
     4. Then run `git pull origin' to download the latest version.
         - You might want to relaunch Minecraft after this to make sure it uses the latest textures.            
-        
+
 ## Known Bugs (on SEUS PTGI E6)
 - Double doors do not correctly take into account direction of light (for the second door)
 - Parallax and normals behaves strangely on rotated textures (rails, for example)
