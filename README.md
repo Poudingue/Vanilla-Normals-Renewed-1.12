@@ -99,5 +99,5 @@ Version Control software allows multiple authors to collaborate, and track all t
 ## Known Bugs (on SEUS PTGI E6)
 - Double doors do not correctly take into account direction of light (for the second door)
 - Parallax and normals behaves strangely on rotated textures (rails, for example)
-- Insufficiently smooth metals do not look like metals if full raytrace reflections are note active. (This is what causes stripes on iron blocks)
+- Insufficiently smooth metals do not look like metals if full raytrace reflections is not active. (This is what causes stripes on iron blocks)
 - ???
